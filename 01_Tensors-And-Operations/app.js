@@ -161,8 +161,3 @@ async function CreateTensor(option, msg, wall=true) {
 	wall? console.log(`----------------------------------------------------------------------------\n`): null;
 	return tensor;
 }
-
-
-
-
-
